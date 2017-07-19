@@ -7,6 +7,8 @@ public class Main {
         oskar.getVoice();
         oskar.screamOnEmployee();
         System.out.println(oskar.isHappy());
+
+        Employee employee = new Employee ();
 //        Lecturer irek  = new Lecturer("Irek", "393939393", 800);
 //        irek.getVoice();
 //

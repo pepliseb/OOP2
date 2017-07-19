@@ -1,7 +1,7 @@
 /**
  * Created by WTG on 18.07.2017.
  */
-public class Employee {
+public  class Employee {
     private String name;
     private String id;
     private int salary;
@@ -36,8 +36,7 @@ public class Employee {
     public void setSalary(int salary) {
         this.salary = salary;
     }
-    public void getVoice() {
-        System.out.println("Głoss szarego pracownika ... ");
+//    public  void getVoice();
     }
-}
+
 
