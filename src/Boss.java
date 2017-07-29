@@ -36,6 +36,6 @@ public class Boss extends  Employee {
     }
 
     public void screamOnEmployee(){
-        System.out.println(" Krzykkkkkkkkkkkkkkkkkkkkkkkkkkkkkk");
+        System.out.println(" Krzykkkkkkkkkkfffkkkkkkkkkkkkkkkkkkkk");
     }
 }
